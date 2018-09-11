@@ -1,0 +1,1 @@
+g++ -std=c++14 numerical_differentiation.cpp -o numerical_differentiation -I ../armadillo/include/ -DARMA_DONT_USE_WRAPPER -lblas -llapack

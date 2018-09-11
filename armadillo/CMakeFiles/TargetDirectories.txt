@@ -1,0 +1,7 @@
+/mnt/C++_Class/armadillo/CMakeFiles/install/strip.dir
+/mnt/C++_Class/armadillo/CMakeFiles/install/local.dir
+/mnt/C++_Class/armadillo/CMakeFiles/armadillo.dir
+/mnt/C++_Class/armadillo/CMakeFiles/install.dir
+/mnt/C++_Class/armadillo/CMakeFiles/list_install_components.dir
+/mnt/C++_Class/armadillo/CMakeFiles/edit_cache.dir
+/mnt/C++_Class/armadillo/CMakeFiles/rebuild_cache.dir
