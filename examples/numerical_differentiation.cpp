@@ -36,7 +36,6 @@ int main() {
 	//let's compare by printing the two vectors
 	cout << "Computed Derivative: " << endl << sin_vec_der << endl;
 	cout << "Mathematical Derivative: " << endl << real_sin_der << endl;
-		
 
 	//In reality, the computer derivative and mathematical derivative are not equal.
 	//This is because the computed derivative uses numerical differentiation,
